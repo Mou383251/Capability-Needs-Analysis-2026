@@ -1,0 +1,6 @@
+ID,Name,"A1: Rate out of 10 – The organisation has a documented strategic corporate plan...","B3: I know how my work contributes...","G5: I am proud to work for the organization...","H2: In the last 12–18 months, how well were your identified training needs met?","H5: Rate the effectiveness of the process for identifying training needs.","H6: How confident are you that the current process meets your future training needs and career aspirations?","InvalidColumn"
+1,John Doe,8,9,7,6,8,7,"text"
+2,Jane Smith,9,10,8,7,9,8,"data"
+3,Peter Jones,6,7,5,"invalid",6,5,"values"
+4,Mary Brown,10,9,9,9,10,9,"should"
+5,David Green,7,,6,5,7,6,"be ignored"
